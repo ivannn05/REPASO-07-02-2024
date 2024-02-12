@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "REPASO07022024/1.0.0": {
+        "runtime": {
+          "REPASO07022024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "REPASO07022024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

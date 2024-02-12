@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\obj\Debug\net6.0\REPASO07022024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\obj\Debug\net6.0\REPASO07022024.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\obj\Debug\net6.0\REPASO07022024.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\obj\Debug\net6.0\REPASO07022024.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\bin\Debug\net6.0\REPASO07022024.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\bin\Debug\net6.0\REPASO07022024.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\bin\Debug\net6.0\REPASO07022024.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\bin\Debug\net6.0\REPASO07022024.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\bin\Debug\net6.0\REPASO07022024.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\obj\Debug\net6.0\REPASO07022024.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\obj\Debug\net6.0\refint\REPASO07022024.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\obj\Debug\net6.0\REPASO07022024.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\obj\Debug\net6.0\REPASO07022024.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\REPASO07022024\obj\Debug\net6.0\ref\REPASO07022024.dll
